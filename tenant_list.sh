@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-#LINK=qa-use4-sbe-s002-tmp/bt/count/final/1705591002
+LINK=qa-use4-sbe-s002-tmp/bt/count/final/1705591002
 WORKDIR=qa/sbe-s002
 SDU=$(echo $WORKDIR | cut -d'/' -f2)
 

@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 LINK=qa-use4-sbe-s002-tmp/bt/count/final/1705591002
-WORKDIR=qa/sbe-s002
+WORKDIR=qa/sbe-s003
 SDU=$(echo $WORKDIR | cut -d'/' -f2)
 
 # First we download list from the Google Storage Bucket in source folder
